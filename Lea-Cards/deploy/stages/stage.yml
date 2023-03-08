@@ -1,0 +1,8 @@
+webservers:
+  hosts:
+    stage1:
+      ansible_user: deploy
+      ansible_port: 22
+      ansible_host: stage-leacards.com
+      domain: stage-leacards.com
+      stage_name: stage

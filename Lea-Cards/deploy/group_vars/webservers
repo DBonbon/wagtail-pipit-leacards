@@ -1,0 +1,8 @@
+---
+python_version: python3
+ansistrano_deploy_to: /mnt/persist/www/lea_cards
+database_name: lea_cards
+database_user: lea_cards
+project_slug: lea_cards
+domain_stage: stage-leacards.com
+domain_prod: leacards.com
